@@ -3,7 +3,7 @@ package com.example.logger
 import timber.log.Timber
 
 
-object Logger {
+object TimberLogger {
     private val logger by lazy {
         TimberLogging()
     }
