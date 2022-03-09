@@ -8,8 +8,10 @@
 
 >[![image-2022-03-09-132722.png](https://i.postimg.cc/pTNckW3R/image-2022-03-09-132722.png)](https://postimg.cc/yJPT8HVb)
 # ScreenShots :camera:
->[![ss1.png](https://i.postimg.cc/X7VhFL5t/ss1.png)](https://postimg.cc/SjvDbWDG)
->[![ss2.png](https://i.postimg.cc/VLDhFtBv/ss2.png)](https://postimg.cc/nC9TFCWf)
+>[url=https://postimg.cc/grY2hPGK][img]https://i.postimg.cc/grY2hPGK/movies.png[/img][/url]
+>[url=https://postimg.cc/ppSW3hz0][img]https://i.postimg.cc/ppSW3hz0/movies-series.png[/img][/url]
+>[url=https://postimg.cc/JG07TcDD][img]https://i.postimg.cc/JG07TcDD/series.png[/img][/url]
+>[![image-2022-03-09-133814.png](https://i.postimg.cc/dtqs4wK2/image-2022-03-09-133814.png)](https://postimg.cc/YjsBSc00)
 
 # Dependencies :elephant:
 >- Retrofit 2
