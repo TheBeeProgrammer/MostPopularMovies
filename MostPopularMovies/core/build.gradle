@@ -51,4 +51,6 @@ dependencies {
     implementation "io.reactivex.rxjava2:rxandroid:$rxandroid_version"
 
     implementation project(path: ':logger')
+    implementation project(path: ':data')
+    implementation project(path: ':domain')
 }

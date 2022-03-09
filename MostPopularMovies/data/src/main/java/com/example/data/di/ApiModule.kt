@@ -1,7 +1,7 @@
 package com.example.data.di
 
-import com.example.core.constants.Constants
 import com.example.data.api.MokyApi
+import com.example.data.api.constants.Constants
 import com.example.data.api.interceptor.NetworkStatusInterceptor
 import dagger.Module
 import dagger.Provides
@@ -31,7 +31,7 @@ object ApiModule {
 
     @Provides
     fun provideOkHttpClient(
-        networkStatusInterceptor: NetworkStatusInterceptor,
+        networkStatusInterceptor: NetworkStatusInterceptor
     ): OkHttpClient {
         return OkHttpClient.Builder()
             .addInterceptor(networkStatusInterceptor)

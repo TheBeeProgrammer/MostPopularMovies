@@ -1,6 +1,6 @@
 package com.example.data.api.interceptor
 
-import com.example.core.exceptions.NetworkUnavailableException
+import com.example.data.exceptions.NetworkUnavailableException
 import com.example.data.ConnectionManager
 import okhttp3.Interceptor
 import okhttp3.Response

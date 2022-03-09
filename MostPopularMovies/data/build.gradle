@@ -52,6 +52,4 @@ dependencies {
     implementation "com.squareup.okhttp3:logging-interceptor:$okhttpLoggingInterceptorVersion"
     implementation "com.squareup.retrofit2:adapter-rxjava2:$rxjava_adapter"
 
-    implementation project(path: ':core')
-
 }

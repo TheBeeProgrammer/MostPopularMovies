@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MostPopularMovies</string>
+    <string name="general_error_message">Algo no salio como lo esperado por favor volver a intentar</string>
 </resources>
